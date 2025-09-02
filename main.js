@@ -1,3 +1,3 @@
 console.log("This is java script file");
 
-document.writeln("Hello");
+document.writeln("Hello world");
